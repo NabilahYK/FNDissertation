@@ -30,6 +30,13 @@ I developed an interpretable XGBoost model as part of an end-to-end machine lear
 - Ethical data handling (UK GDPR, Caldicott)
 
 
+You can find a separate branch NabilahYK-patch-1 which includes a notebook from a workshop I ran introducing decision trees in Python. This session was aimed at learners newer to machine learning and focused on helping them understand how decision trees work in practice.
 
+The notebook includes:
+
+A step-by-step intro to training and visualising decision trees using scikit-learn
+Simple, annotated examples designed to build intuition
+Visual aids and explanations to support non-technical audiences
+I’ve kept this separate from the main dissertation branch to keep the repo focused, but wanted to include it to reflect my interest in teaching and making data science more accessible.
 
 
